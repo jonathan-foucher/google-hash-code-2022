@@ -8,9 +8,9 @@ function writeFile(filePath, lines) {
   const data = lines.join('\n')
   fs.writeFile(filePath, data, (err) => {
     if (err) {
-      return console.log(err);
+      return console.error(err);
     }
-    console.log(filePath + ' was written');
+    console.info(filePath + ' was written');
   });
 }
 

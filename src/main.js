@@ -5,7 +5,7 @@ const fs = require('fs');
 const inputFilesFolder = path.join(__dirname, '..', 'resources', 'input-files');
 
 fs.readdirSync(inputFilesFolder).forEach((fileName) => {
-    console.log("Processing " + fileName);
+    console.info("Processing " + fileName);
     const filePathInput = path.join(__dirname, '..', 'resources', 'input-files', fileName);
     const filePathOutput = path.join(__dirname, '..', 'resources', 'output-files', fileName.replace('.txt', '_result.txt'));
 
@@ -15,5 +15,5 @@ fs.readdirSync(inputFilesFolder).forEach((fileName) => {
 
     fileService.writeFile(filePathOutput, result);
 
-    console.log(fileName + " done");
+    console.info(fileName + " done");
 });
