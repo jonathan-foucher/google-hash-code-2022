@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14b66c23-43d1-42e0-88f1-3e62f160afb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/input-files/a_an_example.in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/input-files/a_an_example.in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/input-files/b_better_start_small.in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/input-files/b_better_start_small.in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/input-files/c_collaboration.in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/input-files/c_collaboration.in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/input-files/d_dense_schedule.in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/input-files/d_dense_schedule.in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/input-files/e_exceptional_skills.in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/input-files/e_exceptional_skills.in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/input-files/f_find_great_mentors.in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/input-files/f_find_great_mentors.in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/output-files/a_an_example.in_result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/output-files/a_an_example.in_result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/output-files/b_better_start_small.in_result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/output-files/b_better_start_small.in_result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/output-files/c_collaboration.in_result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/output-files/c_collaboration.in_result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Skill.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Skill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/file.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/processing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/processing.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25t57dn5ByjJruYsBFNLuvldnUV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14b66c23-43d1-42e0-88f1-3e62f160afb2" name="Changes" comment="" />
+      <created>1646333376313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646333376313</updated>
+      <workItem from="1646333379030" duration="3604000" />
+      <workItem from="1652185301427" duration="44000" />
+      <workItem from="1658611951206" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
