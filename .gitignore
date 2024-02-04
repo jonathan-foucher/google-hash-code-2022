@@ -12,3 +12,6 @@ node_modules/
 !.vscode/tasks.json
 !.vscode/launch.json
 *.code-workspace
+
+# WebStorm
+.idea/
